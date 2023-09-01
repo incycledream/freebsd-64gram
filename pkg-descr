@@ -1,0 +1,14 @@
+64Gram Desktop is a unofficial version of Telegram Desktop messaging app. It is the fast and functional open source
+desktop app connected to the closed source Telegram server.
+
+Telegram features:
+* accounts tied to telephone numbers
+* cloud-based messaging
+* bots for third party developers
+* channels
+* secret chats featuring with client-to-client encryption
+* stickers
+* voice calls
+
+64Gram features are listed here:
+* https://raw.githubusercontent.com/TDesktop-x64/tdesktop/dev/features.md
