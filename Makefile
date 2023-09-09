@@ -1,10 +1,10 @@
 PORTNAME=	64gram-desktop
-DISTVERSION=	1.0.90
+DISTVERSION=	1.0.92
 CATEGORIES=	net-im
 MASTER_SITES=	https://github.com/${GH_ACCOUNT}/${GH_PROJECT}/releases/download/v${DISTVERSION}/
 DISTNAME=	64Gram-${DISTVERSION}-full
 DISTFILES=	${DISTNAME}${EXTRACT_SUFX}
-CONFLICTS= telegram-desktop
+CONFLICTS=	telegram-desktop
 
 MAINTAINER=	homicide@disroot.org
 COMMENT=	Unofficial Telegram Desktop client
