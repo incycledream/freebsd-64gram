@@ -1,5 +1,5 @@
 PORTNAME=	64gram-desktop
-DISTVERSION=	1.0.93
+DISTVERSION=	1.0.97
 CATEGORIES=	net-im
 MASTER_SITES=	https://github.com/${GH_ACCOUNT}/${GH_PROJECT}/releases/download/v${DISTVERSION}/
 DISTNAME=	64Gram-${DISTVERSION}-full
